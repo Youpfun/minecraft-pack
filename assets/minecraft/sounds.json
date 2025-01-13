@@ -1,0 +1,12 @@
+{
+    "entity.creeper.death": {
+        "sounds": [
+            "entity/creeper/creeper_death"
+        ]
+    },
+    "entity.creeper.explosion": {
+        "sounds": [
+            "entity/creeper/creeper_explosion"
+        ]
+    }
+}
